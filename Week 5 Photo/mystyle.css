@@ -1,0 +1,28 @@
+
+.navbar-light .navbar-brand:focus, .navbar-light .navbar-brand:hover {
+    color: #ffffff;
+}
+
+#navbarNavDropdown {
+    color: #ffffff;
+}
+
+
+.jumbotron {
+    background: url('img/j_photo.jpg') no-repeat center center;
+    background-size: cover;
+    padding-top: 20%;
+    padding-bottom: 20%;
+  }
+
+.bg-light {
+    background-color: #ffc107!important;
+}
+
+.cards {
+    padding-bottom: 3%;
+}
+
+.title {
+    text-align: center;
+}
