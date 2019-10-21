@@ -15,6 +15,14 @@ import Util from './util'
 
 
 
+
+// Modal subscription on page load
+$(document).ready(function(){
+  $("#myModal").modal('show');
+});
+
+
+
 (() => {
   if (typeof $ === 'undefined') {
     throw new TypeError('Bootstrap\'s JavaScript requires jQuery. jQuery must be included before Bootstrap\'s JavaScript.')

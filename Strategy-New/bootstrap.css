@@ -16,6 +16,17 @@
   padding-bottom: 20%;
   min-height: 500px;
   max-height: 500px;
+  margin-bottom: 20px;
+}
+
+.jumbotron2 {
+  background: url('img/team.png') no-repeat top;
+  background-size: cover;
+  padding-top: 20%;
+  padding-bottom: 20%;
+  min-height: 500px;
+  max-height: 500px;
+  margin-bottom: 20px;
 }
 
 
